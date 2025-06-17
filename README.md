@@ -57,7 +57,7 @@ Here’s a selection of research publications and corresponding code repositorie
 
 - ✉️ Email: tessone@usc.edu  
 - 🔗 LinkedIn: [linkedin.com/in/deantessone](https://linkedin.com/in/deantessone)  
-- 🧠 Google Scholar: [scholar.google.com]([https://scholar.google.com/your-profile](https://scholar.google.com/citations?user=ld6GwJsAAAAJ&hl=en&oi=ao))
+- 🧠 Google Scholar: [[https://scholar.google.com/your-profile](https://scholar.google.com/citations?user=ld6GwJsAAAAJ&hl=en&oi=ao)](scholar.google.com)
 
 ---
 
