@@ -8,7 +8,6 @@ Welcome to my GitHub! I'm a **PhD student in Molecular and Computational Biology
 
 - 🎓 PhD Candidate @ **USC**, Molecular & Computational Biology
 - 🔬 Focused on **deep learning for liquid biopsy**, **rare circulating cells**, and **tumor microenvironment** characterization
-- 🤖 Passionate about **representation learning**, **multiple instance learning (MIL)**, and **unsupervised discovery pipelines**
 - 🧠 Interested in bridging **computational modeling** and **translational oncology**
 
 ---
@@ -41,10 +40,9 @@ Here’s a selection of research publications and corresponding code repositorie
 
 ## 🧰 Tech Stack
 
-- **Languages**: Python, R, Bash  
-- **Frameworks**: PyTorch, TensorFlow, Scanpy, scikit-learn, FastAPI  
-- **Tools**: Git, Docker, HDF5, Weights & Biases, HuggingFace, CUDA  
-- **Specialties**: MIL, VAE, UMAP, HDBSCAN, self-supervised learning, image segmentation, high-dimensional clustering
+- **Languages**: Python, R
+- **Frameworks**: PyTorch, TensorFlow, Scanpy, scikit-learn, Seurat, BioConductor, DESeq  
+- **Specialties**: Cancer Biology, Liquid Biopsy, MIL, Contrastive Learning, Image Segmentation
 
 ---
 
@@ -57,10 +55,9 @@ Here’s a selection of research publications and corresponding code repositorie
 
 ## 📫 Let's Connect
 
-- ✉️ Email: your_email@usc.edu  
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)  
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 🧠 Google Scholar: [scholar.google.com/your-profile](https://scholar.google.com/your-profile)
+- ✉️ Email: tessone@usc.edu  
+- 🔗 LinkedIn: [linkedin.com/in/deantessone](https://linkedin.com/in/deantessone)  
+- 🧠 Google Scholar: [scholar.google.com]([https://scholar.google.com/your-profile](https://scholar.google.com/citations?user=ld6GwJsAAAAJ&hl=en&oi=ao))
 
 ---
 
