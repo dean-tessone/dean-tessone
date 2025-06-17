@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Dean
 
-Welcome to my GitHub! I'm a **PhD student in Molecular and Computational Biology** at the **University of Southern California (USC)**. I build and apply deep learning models to understand complex biological systems—particularly those involved in cancer biology and rare cell detection through **liquid biopsy**.
+Welcome to my GitHub! I'm a **PhD student in Molecular and Computational Biology** at the **University of Southern California (USC)**. I build and apply both convential and deep learning models to understand complex biological systems—particularly those involved in cancer biology, metastasis, and rare cell detection through **liquid biopsy**.
 
 ---
 
