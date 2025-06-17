@@ -18,8 +18,8 @@ Here’s a selection of research publications and corresponding code repositorie
 
 | 📖 Publication | 🧪 Repository |
 |----------------|---------------|
-| _[Title Placeholder]_ | [GitHub Repo](https://github.com/YOUR_USERNAME/your-repo-name) |
-| _[Title Placeholder]_ | [GitHub Repo](https://github.com/YOUR_USERNAME/your-repo-name) |
+| _[Unsupervised Detection of Rare Events in Liquid Biopsy Assays](https://pmc.ncbi.nlm.nih.gov/articles/PMC11838382/)_ | [RED GitHub Repo](https://github.com/tessone-dean/rare-event-detection) |
+| _[Contrastive Representation Learning for Single Cell Phenotyping in Whole Slide Imaging of Enrichment-free Liquid Biopsy](https://www.biorxiv.org/content/10.1101/2025.05.21.655334v1.abstract)_ | [DeepPhenotyping GitHub Repo](https://github.com/CSI-Cancer/deep_phenotyping) |
 
 > _I'll keep this section up to date as new work is published._
 
@@ -38,18 +38,11 @@ Here’s a selection of research publications and corresponding code repositorie
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Technical/Knowledge Stack
 
 - **Languages**: Python, R
 - **Frameworks**: PyTorch, TensorFlow, Scanpy, scikit-learn, Seurat, BioConductor, DESeq  
 - **Specialties**: Cancer Biology, Liquid Biopsy, MIL, Contrastive Learning, Image Segmentation
-
----
-
-## 📈 Stats & Activity
-
-![Dean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ---
 
@@ -60,6 +53,3 @@ Here’s a selection of research publications and corresponding code repositorie
 - 🧠 Google Scholar: [https://scholar.google.com](https://scholar.google.com/citations?user=ld6GwJsAAAAJ&hl=en&oi=ao)
 
 ---
-
-_“The future of biology is computational.”_
-
