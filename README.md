@@ -1,6 +1,6 @@
 <h1 align=center>
      <img src="./hand.webp?raw=true" width="30px"/>
-     Dean Tessone
+     Hi! I'm Dean
      <p></p>
 </h1>
 
