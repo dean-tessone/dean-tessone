@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Dean
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&pause=1000&color=F70000&width=435&lines=Building+AI+to+Find+Cancer+in+a+Drop+of+Blood;PhD+Student+%40+USC+%7C+Computational+BiologistPhD+Student+%40+USC+%7C+Computational+Biologist;Rare+Cells+%2B+Big+Data;Coffee.+Code.+Cure+Cancer.)](https://git.io/typing-svg)
-
 Welcome to my GitHub! I'm a **PhD student in Molecular and Computational Biology** at the **University of Southern California (USC)**. I build and apply both convential and deep learning models to understand complex biological systems—particularly those involved in cancer biology, metastasis, and rare cell detection through **liquid biopsy**.
 
 ---
