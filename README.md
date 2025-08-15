@@ -22,10 +22,10 @@ Welcome to my GitHub! I'm a **PhD student in Molecular and Computational Biology
 
 Here’s a selection of research publications and corresponding code repositories:
 
-| 📖 Publication | 📔 Journal | 🧪 Repository |
-|----------------|---------------|---------------|
-| _[Unsupervised Detection of Rare Events in Liquid Biopsy Assays](https://www.nature.com/articles/s41698-025-01015-3#citeas)_ | NPJ Precision Oncology | [RED GitHub Repo](https://github.com/tessone-dean/rare-event-detection) |
-| _[Contrastive Representation Learning for Single Cell Phenotyping in Whole Slide Imaging of Enrichment-free Liquid Biopsy](https://www.biorxiv.org/content/10.1101/2025.05.21.655334v1.abstract)_ | Under Review | [DeepPhenotyping GitHub Repo](https://github.com/CSI-Cancer/deep_phenotyping) |
+| 📖 Publication | 📔 Journal | 🧪 Repository | Year |
+|----------------|---------------|---------------|---------------|
+| _[Unsupervised Detection of Rare Events in Liquid Biopsy Assays](https://www.nature.com/articles/s41698-025-01015-3#citeas)_ | NPJ Precision Oncology | [RED GitHub Repo](https://github.com/tessone-dean/rare-event-detection) | 2025
+| _[Contrastive Representation Learning for Single Cell Phenotyping in Whole Slide Imaging of Enrichment-free Liquid Biopsy](https://www.biorxiv.org/content/10.1101/2025.05.21.655334v1.abstract)_ | Under Review | [DeepPhenotyping GitHub Repo](https://github.com/CSI-Cancer/deep_phenotyping) | 2025
 
 > _I'll keep this section up to date as new work is published._
 
