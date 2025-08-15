@@ -1,4 +1,8 @@
-# 👋 Hi, I’m Dean
+<h1 align=center>
+     <img src="./hand.webp?raw=true" width="30px"/>
+     Dean Tessone
+     <p></p>
+</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=35&pause=1000&color=161a1f&vCenter=true&width=1100&height=55&lines=Building+AI+to+Find+Cancer+in+a+Drop+of+Blood+%F0%9F%A9%B8;PhD+Student+%40+USC+%7C+Computational+Biologist;Rare+Cells+%2B+Big+Data;Coffee.+Code.+Cure+Cancer.)](https://git.io/typing-svg)
 
