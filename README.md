@@ -1,6 +1,6 @@
 <h1 align=center>
-     <img src="./hand.webp?raw=true" width="30px"/>
-     Hi! I'm Dean
+     Hi! <img src="./hand.webp?raw=true" width="30px"/>
+     I'm Dean
      <p></p>
 </h1>
 
