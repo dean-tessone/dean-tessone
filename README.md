@@ -1,19 +1,18 @@
-<h1 align="left">
-  Hi! <img src="./hand.webp?raw=true" width="30" alt="wave"/>
-  I'm Dean
-  <p></p>
+<h1>
+  Hi! <img src="./hand.webp?raw=true" width="30" alt="wave"/> I'm Dean
 </h1>
 
 <a href="https://git.io/typing-svg">
   <picture>
-    <!-- Dark theme: light text (GitHub dark text ≈ #C9D1D9) -->
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=35&pause=1000&color=C9D1D9&center=true&vCenter=true&width=1100&height=55&lines=Building+AI+to+Find+Cancer+in+a+Drop+of+Blood+%F0%9F%A9%B8;PhD+Student+%40+USC+%7C+Computational+Biologist;Rare+Cells+%2B+Big+Data;Coffee.+Code.+Cure+Cancer.">
-    <!-- Light theme: dark text (GitHub light text ≈ #24292F) -->
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=35&pause=1000&color=24292F&center=true&vCenter=true&width=1100&height=55&lines=Building+AI+to+Find+Cancer+in+a+Drop+of+Blood+%F0%9F%A9%B8;PhD+Student+%40+USC+%7C+Computational+Biologist;Rare+Cells+%2B+Big+Data;Coffee.+Code.+Cure+Cancer."
+    <!-- Dark theme -->
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=35&pause=1000&color=C9D1D9&width=1100&height=55&lines=...">
+    <!-- Light theme -->
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=35&pause=1000&color=24292F&width=1100&height=55&lines=..."
          alt="Typing SVG">
   </picture>
 </a>
+
 
 
 Welcome to my GitHub! I'm a **PhD student in Molecular and Computational Biology** at the **University of Southern California (USC)**. I build and apply both convential and deep learning models to understand complex biological systems—particularly those involved in cancer biology, metastasis, and rare cell detection through **liquid biopsy**.
