@@ -6,9 +6,9 @@
   <picture>
     <!-- Dark theme -->
     <source media="(prefers-color-scheme: dark)" 
-            srcset="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=35&pause=1000&color=C9D1D9&width=1100&wrap=true&height=55&lines=Building+AI+to+Find+Cancer+in+a+Drop+of+Blood+%F0%9F%A9%B8;PhD+Student+%40+USC+%7C+Computational+Biologist;Rare+Cells+%2B+Big+Data;Coffee.+Code.+Cure+Cancer.">
+            srcset="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=32&pause=1000&color=C9D1D9&width=1100&wrap=true&height=55&lines=Building+AI+to+Find+Cancer+in+a+Drop+of+Blood+%F0%9F%A9%B8;PhD+Student+%40+USC+%7C+Computational+Biologist;Rare+Cells+%2B+Big+Data;Coffee.+Code.+Cure+Cancer.">
     <!-- Light theme -->
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=35&pause=1000&color=24292F&width=1100&wrap=true&height=55&lines=Building+AI+to+Find+Cancer+in+a+Drop+of+Blood+%F0%9F%A9%B8;PhD+Student+%40+USC+%7C+Computational+Biologist;Rare+Cells+%2B+Big+Data;Coffee.+Code.+Cure+Cancer."
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=32&pause=1000&color=24292F&width=1100&wrap=true&height=55&lines=Building+AI+to+Find+Cancer+in+a+Drop+of+Blood+%F0%9F%A9%B8;PhD+Student+%40+USC+%7C+Computational+Biologist;Rare+Cells+%2B+Big+Data;Coffee.+Code.+Cure+Cancer."
          alt="Typing SVG">
   </picture>
 </a>
