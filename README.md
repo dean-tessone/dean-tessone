@@ -7,10 +7,10 @@
   <picture>
     <!-- Dark + MOBILE -->
     <source media="(prefers-color-scheme: dark) and (max-width: 600px)"
-            srcset="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=26&pause=1000&color=C9D1D9&width=500&wrap=true&height=70&multiline=true&center=false&lines=Building+AI+to+Find+Cancer+in+a+Drop+of+Blood+%F0%9F%A9%B8;PhD+Student+%40+USC+%7C+Computational+Biologist;Rare+Cells+%2B+Big+Data;Coffee.+Code.+Cure+Cancer.">
+            srcset="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=26&pause=1000&color=C9D1D9&width=500&wrap=true&height=70&lines=Building+AI+to+Find+Cancer+in+a+Drop+of+Blood+%F0%9F%A9%B8;PhD+Student+%40+USC+%7C+Computational+Biologist;Rare+Cells+%2B+Big+Data;Coffee.+Code.+Cure+Cancer.">
     <!-- Light + MOBILE -->
     <source media="(max-width: 600px)"
-            srcset="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=26&pause=1000&color=24292F&width=500&wrap=true&height=70&multiline=true&center=false&lines=Building+AI+to+Find+Cancer+in+a+Drop+of+Blood+%F0%9F%A9%B8;PhD+Student+%40+USC+%7C+Computational+Biologist;Rare+Cells+%2B+Big+Data;Coffee.+Code.+Cure+Cancer.">
+            srcset="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=26&pause=1000&color=24292F&width=500&wrap=true&height=70&lines=Building+AI+to+Find+Cancer+in+a+Drop+of+Blood+%F0%9F%A9%B8;PhD+Student+%40+USC+%7C+Computational+Biologist;Rare+Cells+%2B+Big+Data;Coffee.+Code.+Cure+Cancer.">
     <!-- Dark + DESKTOP -->
     <source media="(prefers-color-scheme: dark)"
             srcset="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=32&pause=1000&color=C9D1D9&width=1100&height=55&lines=Building+AI+to+Find+Cancer+in+a+Drop+of+Blood+%F0%9F%A9%B8;PhD+Student+%40+USC+%7C+Computational+Biologist;Rare+Cells+%2B+Big+Data;Coffee.+Code.+Cure+Cancer.">
