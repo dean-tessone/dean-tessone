@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
   Hi! <img src="./hand.webp?raw=true" width="30" alt="wave"/>
   I'm Dean
   <p></p>
