@@ -41,7 +41,7 @@ Here’s a selection of research publications and corresponding code repositorie
 | 📖 Publication | 📔 Journal | 🧪 Repository | Year |
 |----------------|---------------|---------------|---------------|
 | _[Unsupervised Detection of Rare Events in Liquid Biopsy Assays](https://www.nature.com/articles/s41698-025-01015-3#citeas)_ | NPJ Precision Oncology | [RED GitHub Repo](https://github.com/tessone-dean/rare-event-detection) | 2025
-| _[Contrastive Representation Learning for Single Cell Phenotyping in Whole Slide Imaging of Enrichment-free Liquid Biopsy](https://www.biorxiv.org/content/10.1101/2025.05.21.655334v1.abstract)_ | Under Review | [DeepPhenotyping GitHub Repo](https://github.com/CSI-Cancer/deep_phenotyping) | 2025
+| _[Representation Learning Enables Robust Single Cell Phenotyping in Whole Slide Liquid Biopsy Imaging](https://www.nature.com/articles/s41598-025-20514-8)_ | Scientific Reports | [DeepPhenotyping GitHub Repo](https://github.com/CSI-Cancer/deep_phenotyping) | 2025
 
 > _I'll keep this section up to date as new work is published._
 
