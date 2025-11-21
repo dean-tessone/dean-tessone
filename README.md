@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm a **PhD student in Molecular and Computational Biology
 
 ---
 
-##Publications & Projects
+## Publications & Projects
 
 Here’s a selection of research publications and corresponding code repositories:
 
