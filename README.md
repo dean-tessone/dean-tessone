@@ -26,19 +26,19 @@ Welcome to my GitHub! I'm a **PhD student in Molecular and Computational Biology
 
 ---
 
-## 🧬 About Me
+## About Me
 
-- 🎓 PhD Candidate @ **USC**, Molecular & Computational Biology
-- 🔬 Focused on **deep learning for liquid biopsy**, **rare circulating cells**, and **tumor microenvironment** characterization
-- 🧠 Interested in bridging **computational modeling** and **translational oncology**
+- PhD Candidate @ **USC**, Molecular & Computational Biology
+- Focused on **deep learning for liquid biopsy**, **rare circulating cells**, and **tumor microenvironment** characterization
+- Interested in bridging **computational modeling** and **translational oncology**
 
 ---
 
-## 📚 Publications & Projects
+##Publications & Projects
 
 Here’s a selection of research publications and corresponding code repositories:
 
-| 📖 Publication | 📔 Journal | 🧪 Repository | Year |
+| Publication | Journal | Repository | Year |
 |----------------|---------------|---------------|---------------|
 | _[Unsupervised Detection of Rare Events in Liquid Biopsy Assays](https://www.nature.com/articles/s41698-025-01015-3#citeas)_ | NPJ Precision Oncology | [RED GitHub Repo](https://github.com/tessone-dean/rare-event-detection) | 2025
 | _[Representation Learning Enables Robust Single Cell Phenotyping in Whole Slide Liquid Biopsy Imaging](https://www.nature.com/articles/s41598-025-20514-8)_ | Scientific Reports | [DeepPhenotyping GitHub Repo](https://github.com/CSI-Cancer/deep_phenotyping) | 2025
@@ -47,20 +47,20 @@ Here’s a selection of research publications and corresponding code repositorie
 
 ---
 
-## 🧠 Research Interests
+## Research Interests
 
-- 🔍 **Rare Cell Phenotyping**  
+- **Rare Cell Phenotyping**  
   Instance-level models for identifying rare events in blood-derived imaging data.
 
-- 🧬 **Foundational Models in Biology**  
+- **Foundational Models in Biology**  
   Contrastive and generative models to build high-resolution, modality-aware cell embeddings.
 
-- 🧪 **Cancer Bioinformatics**  
+- **Cancer Bioinformatics**  
   Translating raw image data and patient metadata into interpretable, actionable clinical insights.
 
 ---
 
-## 🧰 Technical/Knowledge Stack
+## Technical/Knowledge Stack
 
 - **Languages**: Python, R
 - **Frameworks**: PyTorch, TensorFlow, Scanpy, scikit-learn, Seurat, BioConductor, DESeq  
@@ -68,10 +68,10 @@ Here’s a selection of research publications and corresponding code repositorie
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-- ✉️ Email: tessone@usc.edu  
-- 🔗 LinkedIn: [linkedin.com/in/deantessone](https://linkedin.com/in/deantessone)  
-- 🧠 Google Scholar: [https://scholar.google.com](https://scholar.google.com/citations?user=ld6GwJsAAAAJ&hl=en&oi=ao)
+- Email: tessone@usc.edu  
+- LinkedIn: [linkedin.com/in/deantessone](https://linkedin.com/in/deantessone)  
+- Google Scholar: [https://scholar.google.com](https://scholar.google.com/citations?user=ld6GwJsAAAAJ&hl=en&oi=ao)
 
 ---
