@@ -45,7 +45,7 @@ Here’s a selection of research publications and corresponding code repositorie
 
 > _I'll keep this section up to date as new work is published._
 
-I also recently developed a web-based social media for sharing academic papers between researchers called Quorum (quorum-papers.com). Basic tech stack: React, Node, Supabase, and a $5 VPS from DigitalOcean. 
+I also recently developed a web-based social media for sharing academic papers between researchers called [Quorum](quorum-papers.com). Basic tech stack: React, Node, Supabase, and a $5 VPS from DigitalOcean. 
 
 ---
 
