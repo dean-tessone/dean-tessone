@@ -2,26 +2,6 @@
   Hi! <img src="./hand.webp?raw=true" width="30" alt="wave"/> I'm Dean
 </h1>
 
-
-<a href="https://git.io/typing-svg">
-  <picture>
-    <!-- Dark + MOBILE -->
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)"
-            srcset="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=26&pause=1000&color=C9D1D9&width=500&wrap=true&height=70&lines=Building+AI+to+Find+Cancer+in+a+Drop+of+Blood+%F0%9F%A9%B8;PhD+Student+%40+USC+%7C+Computational+Biologist;Rare+Cells+%2B+Big+Data;Coffee.+Code.+Cure+Cancer.">
-    <!-- Light + MOBILE -->
-    <source media="(max-width: 600px)"
-            srcset="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=26&pause=1000&color=24292F&width=500&wrap=true&height=70&lines=Building+AI+to+Find+Cancer+in+a+Drop+of+Blood+%F0%9F%A9%B8;PhD+Student+%40+USC+%7C+Computational+Biologist;Rare+Cells+%2B+Big+Data;Coffee.+Code.+Cure+Cancer.">
-    <!-- Dark + DESKTOP -->
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=32&pause=1000&color=C9D1D9&width=1100&height=55&lines=Building+AI+to+Find+Cancer+in+a+Drop+of+Blood+%F0%9F%A9%B8;PhD+Student+%40+USC+%7C+Computational+Biologist;Rare+Cells+%2B+Big+Data;Coffee.+Code.+Cure+Cancer.">
-    <!-- Light + DESKTOP (fallback <img>) -->
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=32&pause=1000&color=24292F&width=1100&height=55&lines=Building+AI+to+Find+Cancer+in+a+Drop+of+Blood+%F0%9F%A9%B8;PhD+Student+%40+USC+%7C+Computational+Biologist;Rare+Cells+%2B+Big+Data;Coffee.+Code.+Cure+Cancer."
-         alt="Typing SVG">
-  </picture>
-</a>
-
-
-
 Welcome to my GitHub! I'm a **PhD student in Molecular and Computational Biology** at the **University of Southern California (USC)**. I build and apply both conventional and deep learning models to understand complex biological systems—particularly those involved in cancer biology, metastasis, and rare cell detection through **liquid biopsy**.
 
 ---
