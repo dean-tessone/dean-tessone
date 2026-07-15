@@ -9,7 +9,9 @@ Welcome to my GitHub! I'm a **PhD student in Molecular and Computational Biology
 ## About Me
 
 - PhD Candidate @ **USC**, Molecular & Computational Biology
-- Focused on **deep learning for liquid biopsy**, **rare circulating cells**, and **tumor microenvironment** characterization
+- AI and ML Research @ **Tempus AI**, on the Foundation Models Team
+- My PhD work is focused on **deep learning for liquid biopsy**, **rare circulating cells**, and **tumor microenvironment** characterization
+- Outside of my PhD I am interested in and working on foundation models for genomics, transcriptomics, and pathology
 - Interested in bridging **computational modeling** and **translational oncology**
 
 ---
