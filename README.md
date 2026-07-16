@@ -13,6 +13,7 @@ Welcome to my GitHub! I'm a **PhD student in Molecular and Computational Biology
 - My PhD work is focused on **deep learning for liquid biopsy**, **rare circulating cells**, and **tumor microenvironment** characterization
 - Outside of my PhD I am interested in and working on foundation models for genomics, transcriptomics, and pathology
 - Interested in bridging **computational modeling** and **translational oncology**
+- Personal website: https://dean-tessone.github.io
 
 ---
 
